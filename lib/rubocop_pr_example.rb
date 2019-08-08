@@ -1,4 +1,4 @@
-require "rubocop_pr_example/version"
+require 'rubocop_pr_example/version'
 
 module RubocopPrExample
   class Error < StandardError; end
